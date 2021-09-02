@@ -68,6 +68,8 @@ znajdujemy.
 
 ### `git pull`
 
+- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium
+
 ### Pull requesty
 
 ### Forki na GitHubie
