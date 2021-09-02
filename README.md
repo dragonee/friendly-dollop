@@ -26,7 +26,7 @@
 
 ### `git add` 
 
-- dodaje pliki, które chcemy wysłać do przestrzni przed commitem.
+- Dodaje pliki, które chcemy wysłać do przestrzni przed commitem.
 
 ### `git commit`
 
@@ -35,8 +35,7 @@
 
 ### `git diff`
 
-- Diff pokazuje domyslnie roznice pomiedzy zmianami wprowadzonymi
-w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
+- Diff pokazuje domyslnie roznice pomiedzy zmianami wprowadzonymi w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
 
 
 ### `git status` 
@@ -55,7 +54,7 @@ znajdujemy.
 
 ## 4. Praca zespołowa.
 
-### `git remote`
+### `git remote` 
 
 - pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
 (np. na innym serwerze)
