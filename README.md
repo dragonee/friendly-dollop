@@ -49,17 +49,16 @@ zmodyfikowane, dodane lub usuniete na repozytorium.
 
 ### `git log` - komenda
 
-<<<<<<< HEAD
 - Pokazuje, jakie zmiany zostały wykonane w repozytorium
 
 ## 4. Praca zespołowa
-=======
+
+- Pokazuje wprowadzone zmiany w naszym repozytorium
+- Wyświetla wszystkie wprowadzone "commit" do repozytorium
 - Pokazuje wszystkie commity zrobione do miejsca w drzewie, w ktorym sie
 znajdujemy.
 
-
 ## 4. Praca zespołowa.
->>>>>>> baf1562b590ef7dac71fc7069eca67574f6cdb1f
 
 ### `git remote`
 
