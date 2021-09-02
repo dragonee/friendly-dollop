@@ -81,6 +81,8 @@ znajdujemy.
 
 ### `git checkout`
 
+- Zmienia obecny branch na inny
+
 ### `git branch`
 
 ### `git merge`
