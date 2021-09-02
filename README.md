@@ -47,11 +47,13 @@ w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
 - Status pozwala na sprawdzenie plikow, ktore zostaly
 zmodyfikowane, dodane lub usuniete na repozytorium.
 
-### `git log`
+### `git log` - komenda
 
 - Wyświetla wszystkie wprowadzone "commit" do repozytorium
+- Pokazuje wszystkie commity zrobione do miejsca w drzewie, w ktorym sie
+znajdujemy.
 
-## 4. Praca zespołowa
+## 4. Praca zespołowa.
 
 ### `git remote`
 
