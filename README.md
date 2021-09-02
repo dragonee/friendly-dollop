@@ -47,11 +47,19 @@ w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
 - Status pozwala na sprawdzenie plikow, ktore zostaly
 zmodyfikowane, dodane lub usuniete na repozytorium.
 
-### `git log`
+### `git log` - komenda
 
+<<<<<<< HEAD
 - Pokazuje, jakie zmiany zostały wykonane w repozytorium
 
 ## 4. Praca zespołowa
+=======
+- Pokazuje wszystkie commity zrobione do miejsca w drzewie, w ktorym sie
+znajdujemy.
+
+
+## 4. Praca zespołowa.
+>>>>>>> baf1562b590ef7dac71fc7069eca67574f6cdb1f
 
 ### `git remote`
 
