@@ -49,10 +49,6 @@ zmodyfikowane, dodane lub usuniete na repozytorium.
 
 ### `git log` - komenda
 
-- Pokazuje, jakie zmiany zostały wykonane w repozytorium
-
-## 4. Praca zespołowa
-
 - Pokazuje wprowadzone zmiany w naszym repozytorium
 - Wyświetla wszystkie wprowadzone "commit" do repozytorium
 - Pokazuje wszystkie commity zrobione do miejsca w drzewie, w ktorym sie
