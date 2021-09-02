@@ -30,6 +30,9 @@
 
 ### `git diff`
 
+- Diff pokazuje domyslnie roznice pomiedzy zmianami wprowadzonymi
+w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
+
 ### `git status`
 
 ### `git log`
