@@ -24,7 +24,7 @@
 
 ## 3. Praca na repozytorium
 
-### `git add`
+### `git add` - po git add doaje się nazwę pliku, którego chcemy dodać do wysłania
 
 ### `git commit`
 
