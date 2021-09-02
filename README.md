@@ -42,8 +42,7 @@
 
 - Pokazuje które pliki zostały zmodyfikowane i dodane lub nie do commita.
 - Pokazuje status obecnie aktywnego repozytorium, przede wszystkim odnośnie zmian wprowadzonych w plikach.
-- Status pozwala na sprawdzenie plikow, ktore zostaly
-zmodyfikowane, dodane lub usuniete na repozytorium.
+- Status pozwala na sprawdzenie plikow, ktore zostaly zmodyfikowane, dodane lub usuniete na repozytorium.
 
 ### `git log` - komenda
 
@@ -55,25 +54,25 @@ znajdujemy.
 ## 4. Praca zespołowa.
 
 ### `git remote`
- - Ustawia, z którego brancha teraz śledzisz
-
+- Zarządza gałęziami śledzonego repozytorium
 - pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
 (np. na innym serwerze)
 
 ### `git push`
 
-- wysyla commity na remote
-- jesli na remocie jest nowsza wersja kodu, wyrzuca blad
-
-- Wysyła commit na repozytoria
+- Wysyła pliki repozytorium lokalnego oznaczone "commitem" do zdalego repozytorium
 
 ### `git fetch`
 
-- pobiera aktualne commity (i inne zmiany) z remote, nie zmienia glowy (HEAD) naszego repozytorium
+- Pobiera dane z repozytorium zdalnego, nie zmieniając plików lokalnych
 
 ### `git pull`
 
-- robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy, jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego
+- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium
+- nie zmienia glowy (HEAD) naszego repozytorium
+- robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy
+- jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego
+
 
 ### Pull requesty
 
