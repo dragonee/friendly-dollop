@@ -64,10 +64,13 @@ znajdujemy.
 ### `git fetch`
 
 - Pobiera dane z repozytorium zdalnego, nie zmieniając plików lokalnych
+- nie zmienia glowy (HEAD) naszego repozytorium 
 
 ### `git pull`
 
-- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium, nie zmienia glowy (HEAD) naszego repozytorium robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy. Jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego
+- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium
+- robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy. 
+- Jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego
 
 
 ### Pull requesty
