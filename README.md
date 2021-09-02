@@ -24,7 +24,9 @@
 
 ## 3. Praca na repozytorium
 
-### `git add` - po git add wpisuje się nazwę pliku, którego chcemy dodać do wysłania
+### `git add` 
+
+- dodaje pliki, które chcemy wysłać do przestrzni przed commitem.
 
 ### `git commit`
 
@@ -32,6 +34,10 @@
 - Pomaga rozdzielić zmiany wprowadzone przez użytkowników.
 
 ### `git diff`
+
+- Diff pokazuje domyslnie roznice pomiedzy zmianami wprowadzonymi
+w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
+
 
 ### `git status`
 
