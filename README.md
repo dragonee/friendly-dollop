@@ -54,13 +54,20 @@ znajdujemy.
 
 ## 4. Praca zespołowa.
 
-### `git remote` 
+### `git remote`
+ - Ustawia, z którego brancha teraz śledzisz
 
 ### `git push` 
 
+- Wysyła commit na repozytoria
+
 ### `git fetch`
 
+- Pobiera najnowszy stan z repozytorium ale nie aktualizuje tych zmian w twoim kodzie
+
 ### `git pull`
+
+- Pobiera zmiany z rypozytoró
 
 ### Pull requesty
 
