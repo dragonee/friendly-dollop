@@ -56,6 +56,8 @@ znajdujemy.
 
 ### `git remote` 
 
+- Zarządza gałęziami śledzonego repozytorium
+
 ### `git push` 
 
 ### `git fetch`
