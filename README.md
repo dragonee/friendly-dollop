@@ -60,6 +60,8 @@ znajdujemy.
 
 ### `git push` 
 
+- Wysyła pliki repozytorium lokalnego oznaczone "commitem" do zdalego repozytorium
+
 ### `git fetch`
 
 ### `git pull`
