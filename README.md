@@ -62,6 +62,9 @@ znajdujemy.
 
 ### `git push`
 
+- wysyla commity na remote
+- jesli na remocie jest nowsza wersja kodu, wyrzuca blad
+
 ### `git fetch`
 
 ### `git pull`
