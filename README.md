@@ -39,7 +39,9 @@
 w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
 
 
-### `git status`
+### `git status` 
+
+- Pokazuje które pliki zostały zmodyfikowane i dodane lub nie do commita.
 
 ### `git log`
 
