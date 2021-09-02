@@ -57,6 +57,9 @@ znajdujemy.
 
 ### `git remote`
 
+- pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
+(np. na innym serwerze)
+
 ### `git push`
 
 ### `git fetch`
