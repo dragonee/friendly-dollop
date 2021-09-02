@@ -41,6 +41,8 @@ w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
 
 ### `git status`
 
+- Pokazuje status obecnie aktywnego repozytorium, przede wszystkim odnośnie zmian wprowadzonych w plikach.
+
 ### `git log`
 
 ## 4. Praca zespołowa
