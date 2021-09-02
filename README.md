@@ -24,14 +24,11 @@
 
 ## 3. Praca na repozytorium
 
-### `git add` - po git add doaje się nazwę pliku, którego chcemy dodać do wysłania
+### `git add` - po git add wpisuje się nazwę pliku, którego chcemy dodać do wysłania
 
 ### `git commit`
 
 ### `git diff`
-
-- Diff pokazuje domyslnie roznice pomiedzy zmianami wprowadzonymi
-w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
 
 ### `git status`
 
