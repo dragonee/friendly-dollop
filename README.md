@@ -67,6 +67,9 @@ znajdujemy.
 
 ### `git fetch`
 
+- pobiera aktualne commity (i inne zmiany) z remote
+- nie zmienia glowy (HEAD) naszego repozytorium
+
 ### `git pull`
 
 ### Pull requesty
