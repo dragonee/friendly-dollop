@@ -72,6 +72,10 @@ znajdujemy.
 
 ### `git pull`
 
+- robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy
+- jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac
+je ze stanem repozytorium lokalnego
+
 ### Pull requesty
 
 ### Forki na GitHubie
