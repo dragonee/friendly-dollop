@@ -41,6 +41,9 @@ w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
 
 ### `git status`
 
+- Status pozwala na sprawdzenie plikow, ktore zostaly
+zmodyfikowane, dodane lub usuniete na repozytorium.
+
 ### `git log`
 
 ## 4. Praca zespołowa
