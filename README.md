@@ -42,35 +42,36 @@
 
 - Pokazuje które pliki zostały zmodyfikowane i dodane lub nie do commita.
 - Pokazuje status obecnie aktywnego repozytorium, przede wszystkim odnośnie zmian wprowadzonych w plikach.
-- Status pozwala na sprawdzenie plikow, ktore zostaly zmodyfikowane, dodane lub usuniete na repozytorium.
+- Status pozwala na sprawdzenie plikow, które zostaly zmodyfikowane, dodane lub usuniete na repozytorium.
 
 ### `git log` - komenda
 
-- Pokazuje wprowadzone zmiany w naszym repozytorium
-- Wyświetla wszystkie wprowadzone "commit" do repozytorium
+- Pokazuje wprowadzone zmiany w naszym repozytorium.
+- Wyświetla wszystkie wprowadzone "commit" do repozytorium.
 - Pokazuje wszystkie commity zrobione do miejsca w drzewie, w ktorym sie
 znajdujemy.
 
 ## 4. Praca zespołowa.
 
 ### `git remote`
-- Zarządza gałęziami śledzonego repozytorium. Pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
-(np. na innym serwerze)
+- Zarządza gałęziami śledzonego repozytorium. 
+- Pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
+(np. na innym serwerze).
 
 ### `git push`
 
-- Wysyła pliki repozytorium lokalnego oznaczone "commitem" do zdalego repozytorium
+- Wysyła pliki repozytorium lokalnego oznaczone "commitem" do zdalego repozytorium.
 
 ### `git fetch`
 
-- Pobiera dane z repozytorium zdalnego, nie zmieniając plików lokalnych
-- nie zmienia glowy (HEAD) naszego repozytorium 
+- Pobiera dane z repozytorium zdalnego, nie zmieniając plików lokalnych.
+- Nie zmienia glowy (HEAD) naszego repozytorium. 
 
 ### `git pull`
 
-- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium
-- robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy. 
-- Jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego
+- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium.
+- Robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy. 
+- Jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego.
 
 
 ### Pull requesty
