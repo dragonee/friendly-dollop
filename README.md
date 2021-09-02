@@ -57,17 +57,23 @@ znajdujemy.
 ### `git remote`
  - Ustawia, z którego brancha teraz śledzisz
 
-### `git push` 
+- pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
+(np. na innym serwerze)
+
+### `git push`
+
+- wysyla commity na remote
+- jesli na remocie jest nowsza wersja kodu, wyrzuca blad
 
 - Wysyła commit na repozytoria
 
 ### `git fetch`
 
-- Pobiera najnowszy stan z repozytorium ale nie aktualizuje tych zmian w twoim kodzie
+- pobiera aktualne commity (i inne zmiany) z remote, nie zmienia glowy (HEAD) naszego repozytorium
 
 ### `git pull`
 
-- Pobiera zmiany z rypozytoró
+- robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy, jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego
 
 ### Pull requesty
 
