@@ -49,6 +49,8 @@ zmodyfikowane, dodane lub usuniete na repozytorium.
 
 ### `git log`
 
+- Wyświetla wszystkie wprowadzone "commit" do repozytorium
+
 ## 4. Praca zespołowa
 
 ### `git remote`
