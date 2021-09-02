@@ -54,8 +54,7 @@ znajdujemy.
 ## 4. Praca zespołowa.
 
 ### `git remote`
-- Zarządza gałęziami śledzonego repozytorium
-- pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
+- Zarządza gałęziami śledzonego repozytorium. Pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
 (np. na innym serwerze)
 
 ### `git push`
@@ -68,10 +67,7 @@ znajdujemy.
 
 ### `git pull`
 
-- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium
-- nie zmienia glowy (HEAD) naszego repozytorium
-- robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy
-- jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego
+- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium, nie zmienia glowy (HEAD) naszego repozytorium robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy. Jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac je ze stanem repozytorium lokalnego
 
 
 ### Pull requesty
