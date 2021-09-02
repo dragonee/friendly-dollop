@@ -56,24 +56,34 @@ znajdujemy.
 
 ### `git remote` 
 
+
+- Zarządza gałęziami śledzonego repozytorium
+
 - pozwala nam zobaczyc i ustawic zewnetrzne repozytoria dla naszego repozytorium
 (np. na innym serwerze)
 
-### `git push`
+### `git push` 
 
 - wysyla commity na remote
 - jesli na remocie jest nowsza wersja kodu, wyrzuca blad
 
+- Wysyła pliki repozytorium lokalnego oznaczone "commitem" do zdalego repozytorium
+
 ### `git fetch`
+
+- Pobiera dane z repozytorium zdalnego, nie zmieniając plików lokalnych
+
+### `git pull`
+
+- Pobiera pliki z repozytorium zdalnego, zastępując pliki w lokalnym repozytorium
 
 - pobiera aktualne commity (i inne zmiany) z remote
 - nie zmienia glowy (HEAD) naszego repozytorium
 
-### `git pull`
-
 - robi `git fetch`, a potem stara sie zmienic HEAD na najnowszy
 - jesli mamy wlasne commity, odpala `git merge`, zeby zmerdzowac
 je ze stanem repozytorium lokalnego
+
 
 ### Pull requesty
 
