@@ -28,6 +28,9 @@
 
 ### `git commit`
 
+- Rejestruje zmiany w repozytorium i przekazuje je do następnego przesłania.
+- Pomaga rozdzielić zmiany wprowadzone przez użytkowników.
+
 ### `git diff`
 
 ### `git status`
