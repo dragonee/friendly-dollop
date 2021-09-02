@@ -64,6 +64,8 @@ znajdujemy.
 
 ### `git fetch`
 
+- Pobiera dane z repozytorium zdalnego, nie zmieniając plików lokalnych
+
 ### `git pull`
 
 ### Pull requesty
