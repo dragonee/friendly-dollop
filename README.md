@@ -42,7 +42,6 @@ w repozytorium przez nas, a stanem biezacym repozytorium (ostatnim commitem).
 ### `git status` 
 
 - Pokazuje które pliki zostały zmodyfikowane i dodane lub nie do commita.
-
 - Pokazuje status obecnie aktywnego repozytorium, przede wszystkim odnośnie zmian wprowadzonych w plikach.
 - Status pozwala na sprawdzenie plikow, ktore zostaly
 zmodyfikowane, dodane lub usuniete na repozytorium.
